@@ -13,7 +13,7 @@
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=devgamer123&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LionOfLogic&show_icons=true&theme=tokyonight)
 
 ---
 
