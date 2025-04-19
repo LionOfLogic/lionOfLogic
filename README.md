@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi there! I'm Software Engineer
 
-<!--
-**LionOfLogic/lionOfLogic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Game Developer | 🎨 Unity Enthusiast | 💻 Rust & Golang Learner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+![Unity](https://img.shields.io/badge/-Unity-000?&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/-CSharp-239120?&logo=c-sharp&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000?&logo=rust)
+![Go](https://img.shields.io/badge/-Go-00ADD8?&logo=go)
+![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=white)
+
+## 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=devgamer123&show_icons=true&theme=tokyonight)
+
+---
+
+## 💬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tusharydv/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?&logo=github&logoColor=white)](https://oceanred.itch.io/)
+
